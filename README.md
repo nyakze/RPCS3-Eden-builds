@@ -18,6 +18,12 @@ sha256sum RPCS3-0.0.43-Eden-win64-13a3cd426.7z
 # a5757abacda69f8eed254f4ef0371ed190c94a8c2a71148120ecd527dc0a23ea
 ```
 
+## Credits
+
+This build is based on a patch by [@xrcipg](https://github.com/xrcipg) — [original comment](https://github.com/RPCS3/rpcs3/issues/7971#issuecomment-6555148322) on the RPCS3 issue tracker.
+
+All credit for the fix goes to them. This repo only provides pre-compiled binaries.
+
 ## About
 
 This is a pre-built binary of RPCS3, a PlayStation 3 emulator. All credit goes to the [RPCS3 team](https://github.com/RPCS3/rpcs3).
